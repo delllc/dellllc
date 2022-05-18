@@ -1,0 +1,11 @@
+{
+  "name": "aboutme",
+  "version": "1.0.0",
+  "description": "it is pro+ject special for me, for OPD in school",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
